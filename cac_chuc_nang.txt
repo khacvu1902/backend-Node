@@ -2,3 +2,4 @@ Thêm, sửa, xóa Sản phẩm
 Thêm sửa xóa  danh mục
 đăng ký, đăng nhập
 lọc sản phẩm theo danh mục
+upload ảnh(phần này em làm theo nhưng chưa hiểu lắm ạ!)
